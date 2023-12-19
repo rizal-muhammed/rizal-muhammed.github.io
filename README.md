@@ -1,4 +1,4 @@
-# rizal-muhammed.github.io
+# Rizal Muhammed Mp
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
